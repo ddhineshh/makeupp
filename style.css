@@ -1,3 +1,25 @@
+#nameOfStore{
+    margin: 40px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 40px;
+    border: 3px solid red;
+    border-radius: 6px;
+    background-color: aquamarine;
+    width: 400px; 
+    display: table;
+    margin: 0 auto;
+}
+
+#highlight{
+    display: table;
+    margin: 0 auto;
+}
+
+body{
+    background-color: lightpink !important;
+}
+
 img{
     width: 360px;
     height: 360px;
@@ -18,26 +40,4 @@ a{
 .card-body{
     overflow: auto;
     max-height: 200px;
-}
-
-body{
-    background-color: lightpink !important;
-}
-
-#nameOfStore{
-    margin: 40px;
-    text-align: center;
-    font-family: sans-serif;
-    font-size: 40px;
-    border: 3px solid red;
-    border-radius: 6px;
-    background-color: aquamarine;
-    width: 400px; 
-    display: table;
-    margin: 0 auto;
-}
-
-#input{
-    display: table;
-    margin: 0 auto;
 }
